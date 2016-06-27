@@ -14,8 +14,8 @@ The following are instructions on how to configure iTerm and oh-my-zsh + zsh to 
 ### Instructions
 
 1. Install the font onto your machine if you have not done so, and set it as the font of choice in iTerm 2.
-2. [Install zsh + oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-3. [Download powerlevel9k theme (Option 2)](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k)
+2. [Install zsh + oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh#getting-started)
+3. [Download powerlevel9k theme (Option 2)](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#option-2-install-for-oh-my-zsh)
 3. Configure theme - add the config supplied to the generated config.zshrc
 
 **Optionional**: Configure oh-my-zsh with the plugins that you might use.
