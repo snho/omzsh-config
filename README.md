@@ -19,3 +19,7 @@ The following are instructions on how to configure iTerm and oh-my-zsh + zsh to 
 3. Configure theme - add the config supplied to the generated config.zshrc
 
 **Optionional**: Configure oh-my-zsh with the plugins that you might use.
+
+### Other Information
+- Colour scheme used for the screenshot is Molokai.
+- Some explicit references to ANSI 256 colour codes were used to set the colour of some elements, so it might not fit in correctly with your preferred colour scheme. [Use this as a reference for colours.](https://upload.wikimedia.org/wikipedia/en/1/15/Xterm_256color_chart.svg)
